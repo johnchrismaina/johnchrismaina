@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi, I'm John 👋 
+I am a Software Developer specializing in Web development. 
+<br>
+
+My professional highlights include: 
+
+- 🎨 Frontend Development — HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), React 
+- 🛒 E-commerce Solutions — Shopify Theme Development, Liquid templating 
+- 📱 UI/UX Design — Responsive layouts, mobile-first design 
+- 🚀 Building functional and intuitive projects for real-life use 
 
 <!--
 **johnchrismaina/johnchrismaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
