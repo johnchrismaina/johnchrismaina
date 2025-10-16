@@ -5,7 +5,7 @@ I am a Software Developer specializing in Web development.
 
 My professional highlights include: 
 
-- 🎨 Frontend Development — HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), React 
+- 🎨 Frontend Development — HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), React, Typescript, Next.js, Python 
 - 🛒 E-commerce Solutions — Shopify Theme Development, Liquid templating 
 - 📱 UI/UX Design — Responsive layouts, mobile-first design 
 - 🚀 Building functional and intuitive projects for real-life use 
